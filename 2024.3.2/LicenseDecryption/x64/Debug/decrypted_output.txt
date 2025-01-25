@@ -1,0 +1,36 @@
+<root>
+	<ProductName>GeomagicDesignX</ProductName>
+	<Type>1</Type>
+	<HOSTID>02sm1be04c0ea1a4151656c8</HOSTID>
+	<HOSTID_Type>Mac</HOSTID_Type>
+	<Version>2024</Version>
+	<Module ID="GeomagicDesignX">
+		<MaxCount>1</MaxCount>
+		<Date>04-Feb-2025</Date>
+	</Module>
+	<Module ID="Standard">
+		<MaxCount>1</MaxCount>
+		<Date>04-Feb-2025</Date>
+	</Module>
+	<Module ID="Trial">
+		<MaxCount>1</MaxCount>
+		<Date>04-Feb-2025</Date>
+	</Module>
+	<CreationDate>01/20/2025</CreationDate>
+	<ProdTitle>Geomagic Design X</ProdTitle>
+	<GENERALPARAM3>trial</GENERALPARAM3>
+	<Signature>wgqbF+W0vQ/EO7OyKhyEcx4Xsf6FxkO6vZPDY0Qo//LMBqoNLM8wir/95Y5fQwjt7lR+fS+G
+XN3EoZBAqEwCcsb4prF9WVjMB6fo8lm26EY62dkzwiisFmbiDElLAxq5I8vrHfGBockjLn8i
+CRKGx7G9KCB8+sa2OdF0epFVW/Swdv64biRE1yQsR8U9jPCgOhi28tWjAfqRuQQxfgVrnJ7i
+Eas3YT/1tjHsIfg4VPo5HAsr/Oi3fhF8kQfIM2PD/SB9KrqaMSKlflaC7GxQIQvR2ktXTjAf
+jucDy2QoolS6PJIHwemKldiNyc1bbiz42RB2GnLkx2YAqHcuhgOXCUX2VE/YnaDI8UfZCLj+
+Vf7D+10axOG26ihqIFHTIKL4xOt4/HyENR4XdvGDhvYEpgZTD1zCg2uM47/T+EjG3t2g0Hod
+9QAL0lTeGfqB+9wiyRl3WgNNEvnaMWcvh9ANxax4DzmpVSNK2sXqtkpMvcCNL1zntL7o4ne0
+3e2uq3GgCCO6hnxbAKqHlyAWKBZ59EKia0LgWvsEPHv8xyaCW2uecEXBnbvnPM7JIqoPWSHq
+jbr7k8GvNYxKVJ3Ifzd3OHRcXdvuCSZgaA+F1ybnDUXYLuWuhuM5HDokyOnGR5LoLX1RxVby
+FT38TStnXK3mFK69w1mLtfj1UVaAI0dBi+uAcq1LG/e/Tfak7FOnF9fxwumRgJIYLDNjZqgE
+77RyaMga/5H1agNNKSCShGttuBkgM6SRdGs1/Wpq1JUTSDuPtRmqpAX+ZsuPZq6SNPHZU1eK
+TkhsrVc5
+</Signature>
+</root>
+  
